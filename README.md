@@ -1,1 +1,2 @@
-# KaciuFeisbukas
+Projekto tikslas – sukurti socialinę platformą, skirtą kačių mylėtojams, kuri veiktų panašiai kaip „Facebook“. Platforma suteiktų galimybę vartotojams dalintis nuotraukomis, vaizdo įrašais, istorijomis, komentuoti ir bendrauti tarpusavyje, bet visa turinio tematika būtų orientuota tik į kates.
+Veikimo principas – platforma susideda iš internetinės aplikacijos (prieinama per naršyklę) bei serverio pusės su duomenų baze. Naršyklėje vartotojas galės jungtis prie sistemos, peržiūrėti turinį, skelbti įrašus apie kates, vertinti kitų vartotojų paskelbtą turinį bei bendrauti tarpusavyje. Serverio pusė, sukurta Node.js aplinkoje, užtikrins verslo logiką ir duomenų mainus, o duomenų bazė (PostgreSQL) bus naudojama vartotojų bei turinio informacijai saugoti.
